@@ -103,7 +103,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rukshanyomal11&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=00F7FF&text_color=f0f0f5&icon_color=7c60d1&border_color=131313&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rukshanyomal11&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rukshanyomal11&hide_border=true&background=0f0c29&border=131313&stroke=00F7FF&ring=7c60d1&fire=fd0098&currStreakNum=00F7FF&currStreakLabel=00F7FF&sideNums=f0f0f5&sideLabels=f0f0f5&dates=f0f0f5&border_radius=10" height="150"/>
 </div>
 
