@@ -1,5 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hi,%20World!%20I'm%20Yomal%20Rukshan&fontSize=65&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20React%20%26%20Node.js%20•%20Clean%20Code&descSize=20&descAlignY=55)](https://github.com/rukshanyomal11)
-
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hi%20World%20I%27m%20Yomal%20Rukshan&fontSize=60&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20React%20%26%20Node.js&descSize=20&descAlignY=55)](https://github.com/rukshanyomal11)
 # aka rukshanyomal11 github profile
 
 ![Profile views](https://komarev.com/ghpvc/?username=rukshanyomal11&label=Profile%20views&color=7745bf&)
