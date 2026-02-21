@@ -117,6 +117,16 @@
 
 ---
 
+## 🐛 My Issues Be Like
+
+- 🍦 Debugging works better with ice cream  
+- ☕ Coffee = 90% of my code  
+- 🧠 Turning bugs into features since day one  
+- 🚀 Every day learning something new  
+- 🎧 Coding with headphones = productivity mode ON  
+
+---
+
 ## ⭐ Support
 
 If you like my work, consider giving a ⭐ to my repositories!
